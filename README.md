@@ -5,7 +5,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/SadafAram?label=Follow&style=social)
 ![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/sadafaram)
 
-<!--
+
 **SadafAram/SadafAram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## About Me
