@@ -1,7 +1,7 @@
 # Hi there fellow brainiacs 👋, I'm Sadaf Aram!
 
-[![Welcome GIF](https://giphy.com/embed/YGyGeTjpKCE9mkhn3x/video)](https://giphy.com/clips/DuncanvilleFOX-duncanville-witch-day-part-2-season-ep-12-YGyGeTjpKCE9mkhn3x)
-![GitHub followers](https://img.shields.io/github/followers/SadafAram?label=Follow&style=social)
+![Welcome GIF](https://media4.giphy.com/media/YGyGeTjpKCE9mkhn3x/giphy.gif?cid=ecf05e47cckbh5gxkexn35v2a7e0zqqsk3szo5b3ihbznqtu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
+![GitHub followers](https://img.shields.io/github/followers/SadafAram?label=Follow&style=social)](https://media4.giphy.com/media/YGyGeTjpKCE9mkhn3x/giphy.gif?cid=ecf05e47cckbh5gxkexn35v2a7e0zqqsk3szo5b3ihbznqtu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 ![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/sadafaram)
 
 ## About Me
