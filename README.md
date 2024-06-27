@@ -1,5 +1,7 @@
 # Hi there fellow brainiacs 👋, I'm Sadaf Aram!
 
+<div style="width:480px"><iframe allow="fullscreen" frameBorder="0" height="270" src="https://giphy.com/embed/YGyGeTjpKCE9mkhn3x/video" width="480"></iframe></div>
+
 ![Welcome GIF](https://giphy.com/embed/YGyGeTjpKCE9mkhn3x/video)
 ![GitHub followers](https://img.shields.io/github/followers/SadafAram?label=Follow&style=social)
 ![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/sadafaram)
