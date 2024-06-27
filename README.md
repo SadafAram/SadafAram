@@ -15,5 +15,7 @@
 - ⚡ Fun fact: I have ADHD, so it's a minor miracle (or a major one) that I've survived this long in academia! 😅 (Being ridiculously competitive and my desire to leave a giant footprint in this world might have helped a bit.)
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SadafAram&show_icons=true&theme=radical)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SadafAram&theme=react-dark)
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=SadafAram)
