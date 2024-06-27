@@ -6,8 +6,6 @@
 ![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-Connect-blue?style=social&logo=linkedin&link=https://www.linkedin.com/in/sadafaram)
 
 
-**SadafAram/SadafAram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## About Me
 - 🎓 I’m currently finishing my masters in Biomedical Engineering at Tarbiat Modares University.
 - 🌱 I love learning cutting-edge technologies in my field.
