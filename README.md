@@ -16,6 +16,4 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SadafAram&show_icons=true&theme=radical)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=SadafAram&theme=react-dark)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=SadafAram)
