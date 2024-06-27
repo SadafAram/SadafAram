@@ -17,5 +17,3 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SadafAram&show_icons=true&theme=radical)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SadafAram)
-
-[![Harshal Jadhav Medium](https://mediumblog-cards.vercel.app/getMediumBlogs?username=harshalrj25)](https://medium.com/@harshalrj25)
