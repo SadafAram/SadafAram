@@ -17,3 +17,7 @@
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SadafAram&show_icons=true&theme=radical)
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=SadafAram)
+
+## My Contribution snake
+![Contribution snake example](https://github.com/SadafAram/SadafAram/blob/output/github-contribution-grid-snake.svg)
+            
