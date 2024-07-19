@@ -1,4 +1,4 @@
-# Hi there fellow brainiacs 👋
+# Hi there 👋
 
 ![Welcome GIF](https://media4.giphy.com/media/YGyGeTjpKCE9mkhn3x/giphy.gif?cid=ecf05e47cckbh5gxkexn35v2a7e0zqqsk3szo5b3ihbznqtu&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
